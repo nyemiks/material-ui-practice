@@ -1,5 +1,7 @@
 # React + Vite
 
+Getting started with material ui by following the youtube course "MUI5 (Material UI) Crash Course"  https://www.youtube.com/watch?v=o1chMISeTC0
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
